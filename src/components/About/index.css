@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.fotter_about {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.about_image {
+  height: 550px;
+  width: 850px;
+}

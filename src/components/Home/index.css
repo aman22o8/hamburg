@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.fotter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.home_image {
+  height: 550px;
+  width: 850px;
+}
